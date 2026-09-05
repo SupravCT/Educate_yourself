@@ -1,0 +1,19 @@
+# Backend
+Backend/myenv/
+Backend/venv/
+Backend/__pycache__/
+Backend/**/__pycache__/
+Backend/.env
+Backend/faiss_index/
+*.pyc
+
+# Frontend
+Frontend/frontend/node_modules/
+Frontend/frontend/dist/
+Frontend/frontend/.env
+
+# General
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
